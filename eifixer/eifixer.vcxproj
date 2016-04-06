@@ -93,6 +93,9 @@
   <ItemGroup>
     <Image Include="eifixer.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="eifixer.manifest" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
